@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pham 👋
+# Hi, I'm JIN 👋
 
 **Software Engineer** · Vietnam
 
